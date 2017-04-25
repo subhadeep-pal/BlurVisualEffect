@@ -263,6 +263,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = DSRD6624UQ;
 				INFOPLIST_FILE = BlurEffect/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.learning.subhadeep.BlurEffect;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,6 +277,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = DSRD6624UQ;
 				INFOPLIST_FILE = BlurEffect/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.learning.subhadeep.BlurEffect;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -302,6 +304,7 @@
 				7A229B601EAE07B500EE7460 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
